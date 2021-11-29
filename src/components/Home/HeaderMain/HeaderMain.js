@@ -1,6 +1,6 @@
 import React from "react";
 import Chair from "../../../images/chair.png";
-import './HeaderMain.css'
+import "./HeaderMain.css";
 
 const HeaderMain = () => {
   return (
@@ -14,7 +14,9 @@ const HeaderMain = () => {
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis
           officiis harum illum eius id nihil?
         </p>
-        <button className="btn btn-primary appointment-button">Get Appointment</button>
+        <button className="btn btn-primary appointment-button">
+          Get Appointment
+        </button>
       </div>
       <div className="col-md-6">
         <img src={Chair} alt="Chair" className="img-fluid" />
