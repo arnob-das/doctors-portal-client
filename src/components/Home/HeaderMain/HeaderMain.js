@@ -10,7 +10,7 @@ const HeaderMain = () => {
           Your New Smile <br />
           Starts Here
         </h1>
-        <p className="text-secondary">
+        <p className="text-secondary headerMain-subTitle">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis
           officiis harum illum eius id nihil?
         </p>
